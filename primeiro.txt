@@ -1,2 +1,3 @@
 # exemplo-git-h
 Outra alteração
+branch2
